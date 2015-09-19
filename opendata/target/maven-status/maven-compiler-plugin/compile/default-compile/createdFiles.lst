@@ -1,0 +1,11 @@
+br\com\opendata\manager\ExemploManager.class
+br\com\opendata\dao\ExemploDAO.class
+br\com\opendata\manager\AbstractManager.class
+br\com\opendata\util\ConstantesMensagens.class
+br\com\opendata\dao\AbstractDAO.class
+br\com\opendata\domain\ExemploEntity.class
+br\com\opendata\service\OpenData.class
+br\com\opendata\util\HibernateTest.class
+br\com\opendata\manager\IExemploManager.class
+br\com\opendata\util\IniciarBanco.class
+br\com\opendata\util\MensagensUtil.class
